@@ -10,9 +10,9 @@
 - Robust Security Measures
 
 ## Technologies Used
-Java
-JDBC 
-MySQL
+- Java
+- JDBC 
+- MySQL
 
 
  
